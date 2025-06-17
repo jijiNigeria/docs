@@ -1,4 +1,4 @@
-name: Don't delete assets
+Sweetex: Don't delete assets
 
 # **What it does**:
 #   If the PR (against main) involves deletion of assets, if any of
